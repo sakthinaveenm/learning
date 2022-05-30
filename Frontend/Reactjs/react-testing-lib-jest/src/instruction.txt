@@ -1,0 +1,8 @@
+packages used 
+
+npm install --save-dev react-test-renderer
+npm install --save-dev jest babel-jest @babel/preset-env @babel/preset-react react-test-renderer
+
+
+website referred
+https://jestjs.io/docs/tutorial-react

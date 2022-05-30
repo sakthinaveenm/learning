@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes class when hovered 1`] = `
+<div>
+  <h1>
+    SnapshotTesting
+  </h1>
+  <a
+    className="normal"
+    href=""
+    onMouseLeave={[Function]}
+    onMouseOver={[Function]}
+  >
+    No Data
+  </a>
+</div>
+`;
